@@ -1,2 +1,2 @@
-# UC-Davis
+# Dihedral angle calculation
 Calculation files 
